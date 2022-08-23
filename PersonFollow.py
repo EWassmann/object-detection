@@ -67,7 +67,8 @@ def Search():
     b = 5
 
 
-#---------------------------------------------------
+#---------------------------------------------------\
+#initalizing the x and y values and making sure they are out of the pixle range (true for this with logitect webcam)
 x = 500
 y = 500
 

@@ -7,7 +7,7 @@ import imutils
 import time
 import cv2
 
-#PASTE - py ObjectDetect.py -p MobileNetSSD_deploy.prototxt.txt -m MobileNetSSD_deploy.caffemodel
+#PASTE - python ObjectDetect.py -p MobileNetSSD_deploy.prototxt.txt -m MobileNetSSD_deploy.caffemodel
 #in terminal to run
 #lets see if i can make output bigger
 def rescale_frame(frame, percent=75):
